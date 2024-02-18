@@ -51,7 +51,7 @@ __Código resultado do Teste apresentado abaixo:__
 ```
 ## Resultado
 
-356 bicicleta alugadas em 1 dia.
+- 356 bicicleta alugadas em 1 dia.
 
 ## Conclusão
 
